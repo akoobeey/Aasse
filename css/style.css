@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: black;
+  color: red;
+  margin: auto auto;
+ font-size: 30px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ min-height: 1000px;
+ background-image: url(https://pro100hobbi.ru/wp-content/uploads/b/6/a/b6a8596b83a05d1d1aef50d131639cc5.jpeg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+.button{
+  width: 100px;
+  background: #000;
+  margin-top: 20px;
+  color: red;
+  text-transform: uppercase;
+}
+  
